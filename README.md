@@ -4,4 +4,6 @@ Ruby solutions to the Codility exercises at https://codility.com/programmers/les
 
 All solutions are optimized for 100% correctness and speed. Unfortunately, that kinda kills being idiomatic sometimes.
 
+These solutions were curated with lots of help from [jsuchal](https://github.com/jsuchal/codility).
+
 Run all the tests: `$ rspec`
